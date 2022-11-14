@@ -1,0 +1,67 @@
+{
+	"Pokemons" : [
+		{
+			"name": "Rabbit-Mon",
+			"healthpoints": 500,
+			"speed": 100,
+			"power": 150,
+			"defense": 70,
+			"type": "GRASS",
+			"attacks": ["Bash", "Sand Kick"]
+		},
+		{
+			"name": "Deer-Mon",
+			"healthpoints": 150,
+			"speed": 70,
+			"power": 130,
+			"defense": 50,
+			"type": "GRASS",
+			"attacks": ["Bash", "Grass Kick"]
+		},
+		{
+			"name": "Lion-Mon",
+			"healthpoints": 350,
+			"speed": 80,
+			"power": 200,
+			"defense": 60,
+			"type": "FIRE",
+			"attacks": ["Super Bash", "Fire Dash"]
+		},
+		{
+			"name": "Tiger-Mon",
+			"healthpoints": 300,
+			"speed": 85,
+			"power": 190,
+			"defense": 60,
+			"type": "ICE",
+			"attacks": ["Super Bash", "Ice Dash"]
+		},
+		{
+			"name": "Owl-Mon",
+			"healthpoints": 100,
+			"speed": 110,
+			"power": 170,
+			"defense": 20,
+			"type": "AIR",
+			"attacks": ["Bash", "Wing Beat"]
+		},
+		{
+			"name": "Crab-Mon",
+			"healthpoints": 70,
+			"speed": 5,
+			"power": 110,
+			"defense": 90,
+			"type": "WATER",
+			"attacks": ["Bash", "Water Gun"]
+		},
+		{
+			"name": "T-Rex-Mon",
+			"healthpoints": 5000,
+			"speed": 10,
+			"power": 200,
+			"defense": 100,
+			"type": "FIRE",
+			"attacks": ["Super Bash", "Meteor Swarm"]
+		}
+	]
+}

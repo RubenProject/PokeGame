@@ -1,0 +1,67 @@
+{
+	"Attacks" : [
+		{
+			"name": "Bash",
+			"power": 10,
+			"accuracy": 150,
+			"specialCost": 0,
+			"type": "PHYSICAL"
+		},
+		{
+			"name": "Super Bash",
+			"power": 35,
+			"accuracy": 130,
+			"specialCost": 0,
+			"type": "PHYSICAL"
+		},
+		{
+			"name": "Sand Kick",
+			"power": 30,
+			"accuracy": 190,
+			"specialCost": 2,
+			"type": "EARTH"
+		},
+		{
+			"name": "Grass Kick",
+			"power": 30,
+			"accuracy": 190,
+			"specialCost": 2,
+			"type": "GRASS"
+		},
+		{
+			"name": "Fire Dash",
+			"power": 50,
+			"accuracy": 180,
+			"specialCost": 2,
+			"type": "FIRE"
+		},
+		{
+			"name": "Ice Dash",
+			"power": 50,
+			"accuracy": 180,
+			"specialCost": 2,
+			"type": "ICE"
+		},
+		{
+			"name": "Wing Beat",
+			"power": 10,
+			"accuracy": 160,
+			"specialCost": 1,
+			"type": "AIR"
+		},
+		{
+			"name": "Water Gun",
+			"power": 30,
+			"accuracy": 160,
+			"specialCost": 1,
+			"type": "WATER"
+		},
+		{
+			"name": "Meteor Swarm",
+			"power": 500,
+			"accuracy": 200,
+			"specialCost": 5,
+			"type": "FIRE"
+		}
+	]
+}
